@@ -15,7 +15,7 @@
 **Quality Analyst at Tharworx, Bengaluru (_November 2019 — May 2022_)**
 - Developed and maintained quality metrics for tracking and measuring product performance
 
-**Accounts receivables at Omega Healthcare, Bengaluru (_October 2017 — November 2019_)
+**Accounts receivables at Omega Healthcare, Bengaluru (_October 2017 — November 2019_)**
 - Developed and maintained a system for tracking accounts receivable and accounts payable
 - Reconciled accounts payable and accounts receivable to ensure accurate financial records
 
