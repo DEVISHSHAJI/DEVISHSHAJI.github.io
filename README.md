@@ -34,10 +34,10 @@ Used **Matlab** to train over 100 machine learning models which estimated partic
 
 
 ## COURSES
-**COMPLETED ADVANCED CERTIFICATION IN DATA SCIENCE AND ARTIFICIAL
+- **COMPLETED ADVANCED CERTIFICATION IN DATA SCIENCE AND ARTIFICIAL
 INTELLIGENCE, IIT MADRAS (_January 2022 — March 2023_)**
 
-**Logic Building With Programming Using "C", Vidya Academy Of Science & Technology (_May 2012 — June 2012_)**
+- **Logic Building With Programming Using "C", Vidya Academy Of Science & Technology (_May 2012 — June 2012_)**
 
 
 
