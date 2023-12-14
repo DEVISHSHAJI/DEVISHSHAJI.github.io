@@ -1,4 +1,4 @@
-![bike_study](https://github.com/DEVISHSHAJI/DEVISHSHAJI.github.io/assets/149549411/858bf518-4ec3-4083-a3a4-f5836274c403)# DEVISHSHAJI.github.io
+# DEVISHSHAJI.github.io
 
 Data Scientist
 Technical Skills: Python, SQL, MATLAB
