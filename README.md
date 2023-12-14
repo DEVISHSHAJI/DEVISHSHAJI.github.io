@@ -26,7 +26,7 @@ Work Experience
 May 2022 — Present
 
 
-Quality Analyst at Tharworx, Bengaluru
+#Quality Analyst at Tharworx, Bengaluru
 November 2019 — May 2022
 
 
@@ -36,7 +36,7 @@ performance
 
 
 
-Accounts receivables at Omega Healthcare, Bengaluru
+#Accounts receivables at Omega Healthcare, Bengaluru
 October 2017 — November 2019
 
 
