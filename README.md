@@ -19,7 +19,10 @@ January 2010 — June 2012
 
 
 Work Experience
-Revenue cycle management Analyst at Vohra Wound Care Private Limited, Bengaluru
+
+
+
+#Revenue cycle management Analyst at Vohra Wound Care Private Limited, Bengaluru
 May 2022 — Present
 
 
