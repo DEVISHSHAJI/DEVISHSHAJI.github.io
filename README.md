@@ -9,14 +9,11 @@
 
 ## Work Experience
 **Revenue cycle management Analyst at QUEST INFOSOFT LIMITED, Bengaluru  Scientist (_May 2022 — Present_)**
-- Uncovered and corrected missing step in production data pipeline which impacted over 70% of active accounts
-- Redeveloped loan originations model which resulted in 50% improvement in model performance and saving 1 million dollars in potential losses
 
 **Quality Analyst at Tharworx, Bengaluru (_November 2019 — May 2022_)**
 - Developed and maintained quality metrics for tracking and measuring product performance
 
 **Accounts receivables at Omega Healthcare, Bengaluru (_October 2017 — November 2019_)**
-- Developed and maintained a system for tracking accounts receivable and accounts payable
 - Reconciled accounts payable and accounts receivable to ensure accurate financial records
 
   
