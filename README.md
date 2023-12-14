@@ -21,12 +21,23 @@ January 2010 — June 2012
 Work Experience
 Revenue cycle management Analyst at Vohra Wound Care Private Limited, Bengaluru
 May 2022 — Present
+
+
 Quality Analyst at Tharworx, Bengaluru
 November 2019 — May 2022
+
+
 • Developed and maintained quality metrics for tracking and measuring product
 performance
+
+
+
+
 Accounts receivables at Omega Healthcare, Bengaluru
 October 2017 — November 2019
+
+
+
 • Developed and maintained a system for tracking accounts receivable and accounts
 payable
 • Reconciled accounts payable and accounts receivable to ensure accurate financial
