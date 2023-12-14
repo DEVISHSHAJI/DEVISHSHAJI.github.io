@@ -1,5 +1,3 @@
-# DEVISHSHAJI.github.io
-
 **Data Scientist**
 
 
